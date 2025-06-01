@@ -35,3 +35,6 @@ System.out.println(result);
 ```
 
 You can also run the application from the command line.
+```
+java -cp target/cron-parser-1.0-SNAPSHOT.jar
+```
